@@ -1,0 +1,2 @@
+Task 5.2
+Read marks until the user enters -1. Print the count, sum, average, highest and lowest.
