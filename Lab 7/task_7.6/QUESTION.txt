@@ -1,2 +1,0 @@
-Task 7.6
-Write recursive methods for the sum of the first n integers, the power of a number, and reversing a string (use substring).
